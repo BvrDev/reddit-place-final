@@ -1,7 +1,7 @@
 # reddit-place-final
--original author:
+- original author:
 Bvr
--inspired by: oralekin, LittleEndu, ekgame, Wieku, DeadRote
+- inspired by: oralekin, LittleEndu, ekgame, Wieku, DeadRote
 
 ## Instructions EN
 
